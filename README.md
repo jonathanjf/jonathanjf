@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil no GITHUB
 
- Me chamo Jonathan Fernandes André, resido em Duque de caxia-RJ e sou estudante de desenvolvimento de software na <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> 
+ Me chamo Jonathan Fernandes André, resido em Duque de Caxia-RJ e sou estudante de desenvolvimento de software na <a href="https://www.betrybe.com/"  target="_blank">Trybe</a> 
  
  #### Linguagens e tecnologias que utilizo (até o momento):
  
