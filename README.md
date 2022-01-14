@@ -12,7 +12,7 @@
 ### Linguagens e tecnologias back-end que utilizo (até o momento):
 
 1. <img width="25px" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png"> Nodejs
-2. <img width="25px" src="https://cdn1.iconfinder.com/data/icons/web-hosting-3-2/32/Database_Service-256.png"> SqlServer
+2. <img width="25px" src="https://cdn3.iconfinder.com/data/icons/UltimateGnome/256x256/mimetypes/application-x-sqlite2.png"> SqlServer
 3. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"> MongoDB
 4. <img width="25px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png"> Sequelize
 
