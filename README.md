@@ -12,9 +12,21 @@
 ### Linguagens e tecnologias back-end que utilizo (até o momento):
 
 1. <img width="25px" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png"> Nodejs
-2. <img width="25px" src="https://cdn3.iconfinder.com/data/icons/UltimateGnome/256x256/mimetypes/application-x-sqlite2.png"> SqlServer
-3. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"> MongoDB
-4. <img width="25px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png"> Sequelize
+2. <img width="25px" src="https://www.hugeserver.com/kb/wp-content/uploads/2017/12/expresslogo.png"> Express
+3. <img width="25px" src="https://cdn3.iconfinder.com/data/icons/UltimateGnome/256x256/mimetypes/application-x-sqlite2.png"> SqlServer
+4. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"> MongoDB
+5. <img width="25px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png"> Sequelize
+
+### Linguagens que estou estudando no momento:
+
+<img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"> Python
+
+### Conceitos aprendidos até o momento: 
+
+1. Metodologia TDD
+2. Mobile first
+3. Arquitetura de software
+4. Programação orientada a objeto
 
 #### Entre em contato comigo através do:
 <img width="25px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/56-linkedin-256.png"> <a href="https://www.linkedin.com/in/jonathan-fernandesjf/" target="_blank">Linkedin</a>  
