@@ -13,7 +13,7 @@
 
 1. <img width="25px" src="https://cdn0.iconfinder.com/data/icons/long-shadow-web-icons/512/nodejs-256.png"> Nodejs
 2. <img width="25px" src="https://www.hugeserver.com/kb/wp-content/uploads/2017/12/expresslogo.png"> Express
-3. <img width="25px" src="https://cdn3.iconfinder.com/data/icons/UltimateGnome/256x256/mimetypes/application-x-sqlite2.png"> SqlServer
+3. <img width="25px" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png"> MySql
 4. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"> MongoDB
 5. <img width="25px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png"> Sequelize
 
