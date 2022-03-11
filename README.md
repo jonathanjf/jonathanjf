@@ -16,10 +16,11 @@
 3. <img width="25px" src="https://cdn-icons-png.flaticon.com/512/1199/1199128.png"> MySql
 4. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-3/512/mongodb-2-256.png"> MongoDB
 5. <img width="25px" src="https://brandslogos.com/wp-content/uploads/images/sequelize-logo.png"> Sequelize
+6. <img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"> Python
 
-### Linguagens que estou estudando no momento:
+### Linguagens ou frameworks que estou estudando no momento:
 
-<img width="25px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-256.png"> Python
+<img width="25px" src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png"> Next.js
 
 ### Conceitos aprendidos até o momento: 
 
