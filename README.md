@@ -22,7 +22,8 @@
 
 - <img width="25px" src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png"> Next.js
 - <img width="25px" src="https://iconape.com/wp-content/files/fh/110909/png/typescript.png"> Typescript
-- <img width="25px" src="https://iconape.com/wp-content/files/qq/114429/png/wordpress-blue.png"> Wordpress + Elementor
+- <img width="25px" src="https://iconape.com/wp-content/files/qq/114429/png/wordpress-blue.png"> Wordpress 
+- <img width="25px" src="https://iconape.com/wp-content/files/gj/11489/png/elementor.png"> Elementor
 
 ### Conceitos aprendidos até o momento: 
 
