@@ -21,6 +21,8 @@
 ### Linguagens ou frameworks que estou estudando no momento:
 
 <img width="25px" src="https://iconape.com/wp-content/png_logo_vector/next-js-logo.png"> Next.js
+<img width="25px" src="https://iconape.com/typescript-icon-logo-icon-svg-png"> Typescript
+<img width="25px" src="https://iconape.com/wp-content/files/qq/114429/png/wordpress-blue.png"> Wordpress + Elementor
 
 ### Conceitos aprendidos até o momento: 
 
