@@ -1,38 +1,35 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 Hi, I'm Jonathan
 
-###
+I'm a Full Stack Developer and Fluig Consultant from Duque de Caxias - RJ, Brazil.
 
-<p align="left">My name is Jonathan and I'm a full stack developer and Fluig consultant, from Duque de caxias - RJ - Brazil</p>
+---
 
-###
+## About Me
+✨ Creating bugs since 2021  
+💻 Building web applications since 2021 using:  
+- **Frontend:** JavaScript (Vanilla, React.js)  
+- **Backend:** Node.js, Java with Spring Framework  
 
-<h2 align="left">About me</h2>
+Currently focused on backend technologies and available for **full-stack** and **backend** opportunities.
 
-###
+---
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I have been creating web applications since 2021, using javascript ( Vanilla, React.js, Node.js ) and a little of java, and now i'm focused in backend technologies like Java with Spring Framework.<br
+## Skills
+- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Backend:** Node.js, Java, Spring Boot  
+- **Databases:** MySQL, PostgreSQL  
+- **Tools & Others:** Git, GitHub, Fluig  
 
-Im Avaiable for fullstack and backend oportunities.
+---
 
-###
+## Projects
+Here you can briefly list 2–3 highlights with links:
 
-<h2 align="left">I code with</h2>
+- [Project Name](link) – Short description  
+- [Project Name](link) – Short description  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-</div>
-
-###
+## Contact
+📧 Email: your.email@example.com  
+🔗 LinkedIn: [Your LinkedIn](link)
