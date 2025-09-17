@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jonathan and I'm a full stack developer and Fluig consultant, from Duque de caxias - RJ</p>
+<p align="left">My name is Jonathan and I'm a full stack developer and Fluig consultant, from Duque de caxias - RJ - Brazil</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java and Spring <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java and Spring <br>🎯 Goals: I have been creating web applications since 2021, using javascript and a little of java, and now i'm pratice my backend skills with java and spring framework.<br
 
 ###
 
