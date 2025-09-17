@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java and Spring <br>🎯 Goals: I have been creating web applications since 2021, using javascript and a little of java, and now i'm pratice my backend skills with java and spring framework.<br
+<p align="left">✨ Creating bugs since 2021<br>📚 I have been creating web applications since 2021, using javascript and a little of java, and now i'm pratice my backend skills with java and spring framework.<br
 
 ###
 
