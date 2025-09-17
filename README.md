@@ -31,5 +31,5 @@ Here you can briefly list 2–3 highlights with links:
 ---
 
 ## Contact
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn](link)
+📧 Email: jonathanfernandesjf98@gmail.com
+🔗 LinkedIn: [Click Here](https://www.linkedin.com/in/jonathan-fernandesjf)
