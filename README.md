@@ -15,9 +15,9 @@ Currently focused on backend technologies and available for **full-stack** and *
 ---
 
 ## Skills
-- **Frontend:** HTML, CSS, JavaScript, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js, Angular
 - **Backend:** Node.js, Java, Spring Boot  
-- **Databases:** MySQL, PostgreSQL  
+- **Databases:** MySQL, PostgreSQL, mongodb 
 - **Tools & Others:** Git, GitHub, Fluig  
 
 ---
